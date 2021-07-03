@@ -1,0 +1,96 @@
+.ssiKCNTX_0 {
+  stroke-dasharray: 742 744;
+  stroke-dashoffset: 743;
+  animation: ssiKCNTX_draw 2400ms ease-in 0ms forwards;
+}
+.ssiKCNTX_1 {
+  stroke-dasharray: 506 508;
+  stroke-dashoffset: 507;
+  animation: ssiKCNTX_draw 2400ms ease-in 6ms forwards;
+}
+.ssiKCNTX_2 {
+  stroke-dasharray: 235 237;
+  stroke-dashoffset: 236;
+  animation: ssiKCNTX_draw 2400ms ease-in 13ms forwards;
+}
+.ssiKCNTX_3 {
+  stroke-dasharray: 621 623;
+  stroke-dashoffset: 622;
+  animation: ssiKCNTX_draw 2400ms ease-in 20ms forwards;
+}
+.ssiKCNTX_4 {
+  stroke-dasharray: 445 447;
+  stroke-dashoffset: 446;
+  animation: ssiKCNTX_draw 2400ms ease-in 26ms forwards;
+}
+.ssiKCNTX_5 {
+  stroke-dasharray: 414 416;
+  stroke-dashoffset: 415;
+  animation: ssiKCNTX_draw 2400ms ease-in 33ms forwards;
+}
+.ssiKCNTX_6 {
+  stroke-dasharray: 444 446;
+  stroke-dashoffset: 445;
+  animation: ssiKCNTX_draw 2400ms ease-in 40ms forwards;
+}
+.ssiKCNTX_7 {
+  stroke-dasharray: 506 508;
+  stroke-dashoffset: 507;
+  animation: ssiKCNTX_draw 2400ms ease-in 46ms forwards;
+}
+.ssiKCNTX_8 {
+  stroke-dasharray: 229 231;
+  stroke-dashoffset: 230;
+  animation: ssiKCNTX_draw 2400ms ease-in 53ms forwards;
+}
+.ssiKCNTX_9 {
+  stroke-dasharray: 202 204;
+  stroke-dashoffset: 203;
+  animation: ssiKCNTX_draw 2400ms ease-in 60ms forwards;
+}
+.ssiKCNTX_10 {
+  stroke-dasharray: 399 401;
+  stroke-dashoffset: 400;
+  animation: ssiKCNTX_draw 2400ms ease-in 66ms forwards;
+}
+.ssiKCNTX_11 {
+  stroke-dasharray: 659 661;
+  stroke-dashoffset: 660;
+  animation: ssiKCNTX_draw 2400ms ease-in 73ms forwards;
+}
+.ssiKCNTX_12 {
+  stroke-dasharray: 506 508;
+  stroke-dashoffset: 507;
+  animation: ssiKCNTX_draw 2400ms ease-in 80ms forwards;
+}
+.ssiKCNTX_13 {
+  stroke-dasharray: 414 416;
+  stroke-dashoffset: 415;
+  animation: ssiKCNTX_draw 2400ms ease-in 86ms forwards;
+}
+.ssiKCNTX_14 {
+  stroke-dasharray: 202 204;
+  stroke-dashoffset: 203;
+  animation: ssiKCNTX_draw 2400ms ease-in 93ms forwards;
+}
+.ssiKCNTX_15 {
+  stroke-dasharray: 491 493;
+  stroke-dashoffset: 492;
+  animation: ssiKCNTX_draw 2400ms ease-in 100ms forwards;
+}
+@keyframes ssiKCNTX_draw {
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
+@keyframes ssiKCNTX_fade {
+  0% {
+    stroke-opacity: 1;
+  }
+  94.02985074626866% {
+    stroke-opacity: 1;
+  }
+  100% {
+    stroke-opacity: 0;
+  }
+}

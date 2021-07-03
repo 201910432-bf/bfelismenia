@@ -1,0 +1,183 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.first_scene {
+  height: 100vh;
+  background-image: url("../../assets/images/bg.png");
+  background-position: 100%;
+  background-size: cover;
+}
+
+.width__setting {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.header_content {
+  width: 61%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  animation: headerEffect 0.5 ease forwards 3s;
+}
+
+.header_options {
+  list-style: none;
+  display: flex;
+}
+
+.header_options li {
+  margin-left: 5em;
+}
+
+.header_options a {
+  font-family: montserrat;
+  font-weight: bold;
+  text-decoration: none;
+  color: white;
+}
+
+.header_options,
+.header_icon {
+  color: white;
+  margin-top: 2em;
+}
+
+.first_scene_content {
+  color: white;
+  position: relative;
+}
+
+#myname {
+  width: 40%;
+  position: absolute;
+  top: 270%;
+  left: 20%;
+  transform: translate(0%, -50%);
+  animation: fill 0.5 ease forwards 7s;
+}
+
+@keyframes fill {
+  from {
+    fill: transparent;
+  }
+  to {
+    fill: rgb(255, 255, 255);
+  }
+}
+
+@keyframes headerEffect {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+
+/* typewriter effect */
+
+.right_content {
+  margin-top: 10em;
+  width: 100%;
+  animation: headerEffect 0.5 ease forwards 3s;
+}
+
+.sectionOne {
+  display: flex;
+  justify-content: flex-end;
+}
+.sectionTwo {
+  display: flex;
+  justify-content: flex-end;
+  line-height: 27px;
+  letter-spacing: 1.5px;
+}
+
+.container_details {
+  margin-right: 13.5em;
+  width: 23em;
+}
+
+.container_hello {
+  width: 250px;
+  display: flex;
+  color: white;
+  font-family: montserrat;
+  margin-right: 21em;
+}
+
+.typing {
+  position: relative;
+  margin-left: 8px;
+}
+
+.typing::after {
+  content: "";
+  position: absolute;
+  right: -5px;
+  width: 1px;
+  height: 20px;
+  border-right: 2px solid white;
+  animation: blink 0.5s infinite ease;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+/* second scene */
+/* .second_scene {
+  height: 100vh;
+  background-color: #0d0d0e;
+}
+
+.text_container {
+  color: #fff;
+  position: absolute;
+  transform: translate(15em, 5em);
+}
+
+.text_container h3 {
+  position: relative;
+  letter-spacing: 2px;
+}
+
+.text_container h3::after {
+  content: "";
+  position: absolute;
+  right: -1px;
+  width: 4.7em;
+  height: 40px;
+  border-bottom: 5px solid #a9582a;
+}
+
+.animate {
+  animation: reveal 1s forwards;
+}
+
+@keyframes reveal {
+  from {
+    opacity: 0;
+    transform: translateX(-180px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+} */

@@ -1,0 +1,111 @@
+.second_scene {
+  height: 100vh;
+  background-color: #0d0d0e;
+}
+
+.sections {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  height: 90%;
+}
+
+.imageStyle {
+  border-radius: 50%;
+  margin-bottom: 1em;
+  border: 3px dotted rgb(85, 152, 163);
+}
+
+.section__one {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.section__one h5,
+.section__two h5 {
+  color: rgb(85, 152, 163);
+}
+
+.section__two {
+  margin-top: 3em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contact__info {
+  width: 110%;
+  margin-top: 1em;
+  display: flex;
+  justify-content: space-between;
+}
+
+.contact__info__ {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact__info__links {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact__info__links a {
+  text-decoration: none;
+  color: rgb(85, 152, 163);
+}
+
+.section__three {
+  margin-top: 3em;
+  width: 100%;
+  margin-top: 2em;
+}
+
+.section__three > h5 {
+  text-align: center;
+  color: rgb(85, 152, 163);
+}
+
+.edu__info {
+  margin-top: 1em;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.sub__data {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgba(76, 143, 187, 0.2);
+  padding: 1em;
+  border-radius: 1em;
+}
+
+.sub__data > p {
+  color: rgb(85, 152, 163);
+
+  font-weight: bold;
+}
+
+.sch__info {
+  margin-top: 0.5em;
+}
+
+.sch__info p {
+  font-size: 13px;
+  width: 250px;
+  word-wrap: break-word;
+}
+
+.footer__section {
+  background-color: rgba(151, 151, 151, 0.5);
+  margin-top: 1em;
+  font-size: 25px;
+  font-weight: bold;
+  display: flex;
+  justify-content: space-evenly;
+  opacity: 0.5;
+}
