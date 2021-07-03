@@ -1,14 +1,10 @@
 {
   "files": {
-    "main.css": "/bfelismenia/static/css/main.30b19f44.chunk.css",
-    "main.js": "/bfelismenia/static/js/main.1ede48a7.chunk.js",
-    "main.js.map": "/bfelismenia/static/js/main.1ede48a7.chunk.js.map",
+    "main.css": "/bfelismenia/static/css/main.52bc7409.chunk.css",
+    "main.js": "/bfelismenia/static/js/main.bf014100.chunk.js",
     "runtime-main.js": "/bfelismenia/static/js/runtime-main.a9f30f63.js",
-    "runtime-main.js.map": "/bfelismenia/static/js/runtime-main.a9f30f63.js.map",
     "static/js/2.9398db5b.chunk.js": "/bfelismenia/static/js/2.9398db5b.chunk.js",
-    "static/js/2.9398db5b.chunk.js.map": "/bfelismenia/static/js/2.9398db5b.chunk.js.map",
     "index.html": "/bfelismenia/index.html",
-    "static/css/main.30b19f44.chunk.css.map": "/bfelismenia/static/css/main.30b19f44.chunk.css.map",
     "static/js/2.9398db5b.chunk.js.LICENSE.txt": "/bfelismenia/static/js/2.9398db5b.chunk.js.LICENSE.txt",
     "static/media/Header.css": "/bfelismenia/static/media/bg.0a4a00db.png",
     "static/media/Works.css": "/bfelismenia/static/media/bg4.7e404ee1.png",
@@ -21,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.a9f30f63.js",
     "static/js/2.9398db5b.chunk.js",
-    "static/css/main.30b19f44.chunk.css",
-    "static/js/main.1ede48a7.chunk.js"
+    "static/css/main.52bc7409.chunk.css",
+    "static/js/main.bf014100.chunk.js"
   ]
 }
