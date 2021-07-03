@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/bfelismenia/static/css/main.30b19f44.chunk.css",
+    "main.js": "/bfelismenia/static/js/main.1ede48a7.chunk.js",
+    "main.js.map": "/bfelismenia/static/js/main.1ede48a7.chunk.js.map",
+    "runtime-main.js": "/bfelismenia/static/js/runtime-main.a9f30f63.js",
+    "runtime-main.js.map": "/bfelismenia/static/js/runtime-main.a9f30f63.js.map",
+    "static/js/2.9398db5b.chunk.js": "/bfelismenia/static/js/2.9398db5b.chunk.js",
+    "static/js/2.9398db5b.chunk.js.map": "/bfelismenia/static/js/2.9398db5b.chunk.js.map",
+    "index.html": "/bfelismenia/index.html",
+    "static/css/main.30b19f44.chunk.css.map": "/bfelismenia/static/css/main.30b19f44.chunk.css.map",
+    "static/js/2.9398db5b.chunk.js.LICENSE.txt": "/bfelismenia/static/js/2.9398db5b.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/bfelismenia/static/media/bg.0a4a00db.png",
+    "static/media/Works.css": "/bfelismenia/static/media/bg4.7e404ee1.png",
+    "static/media/modular.887abc1a.jpg": "/bfelismenia/static/media/modular.887abc1a.jpg",
+    "static/media/profile1.9e250b11.jpg": "/bfelismenia/static/media/profile1.9e250b11.jpg",
+    "static/media/services.f01e9083.jpg": "/bfelismenia/static/media/services.f01e9083.jpg",
+    "static/media/webinars.67c090d6.jpg": "/bfelismenia/static/media/webinars.67c090d6.jpg",
+    "static/media/wfh.4fad4043.jpg": "/bfelismenia/static/media/wfh.4fad4043.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9f30f63.js",
+    "static/js/2.9398db5b.chunk.js",
+    "static/css/main.30b19f44.chunk.css",
+    "static/js/main.1ede48a7.chunk.js"
+  ]
+}
